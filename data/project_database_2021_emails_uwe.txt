@@ -1,0 +1,25 @@
+Name ,Full_name,email
+Chenguang,Chenguang Yang,Chenguang.Yang@brl.ac.uk
+Zhenyu,Zhenyu Lu,zhenyu.lu@uwe.ac.uk
+Yaseen,Yaseen Zaidi,yaseen.zaidi@uwe.ac.uk
+Amir,Amir Bolouri,amir.bolouri@uwe.ac.uk
+Wenhao,Wenhao Zhang,wenhao.zhang@uwe.ac.uk
+Quan,Quan Zhu,quan.zhu@uwe.ac.uk
+Virginia,Virginia Ruiz Garate,virginia.ruizgarate@uwe.ac.uk
+Mark,Mark Hansen,mark.hansen@uwe.ac.uk
+David,David Western,david.western@uwe.ac.uk
+Tavs,Tavs Jorgensen,tavs.jorgensen@uwe.ac.uk
+Martin,Martin Pearson,martin.pearson@uwe.ac.uk
+Ning,Ning Wang,ning2.wang@uwe.ac.uk
+Dr,Dr Rohitha Weerasinghe,rohitha.weerasinghe@uwe.ac.uk
+Hamidreza,Hamidreza Nemati,Hamidreza.Nemati@uwe.ac.uk
+Farid,Farid Dailami,farid.dailami@uwe.ac.uk
+Anna,Anna Chatzimichali ,Anna.Chatzimichali@uwe.ac.Uk 
+Matthew,Matthew O'Donnell,Matt.ODonnell@uwe.ac.uk
+Roshan,Roshan Weerasekera,roshan.weerasekera@uwe.ac.uk
+Iwona,Iwona Gajda,Iwona.gajda@uwe.ac.uk
+Dr,Dr Jonathan Winfield,jonathan.winfield@uwe.ac.uk
+Xavier,Xavier Alexis Walter,xavier.walter@uwe.ac.uk
+Matthew,Matthew Studley,matthew2.studley@uwe.ac.uk
+Jiseon,Jiseon You,jiseon.you@uwe.ac.uk
+Manuel,Manuel Giuliani,manuel.giuliani@uwe.ac.uk
